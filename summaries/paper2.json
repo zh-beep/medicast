@@ -1,0 +1,9 @@
+{
+  "filename": "paper2.json",
+  "success": true,
+  "summary": {
+    "success": true,
+    "analysis": "Here is a concise and engaging summary of the medical research paper in 150-200 words:\n\nIn a groundbreaking study, researchers discovered that high atrial rates trigger the release of Bone Morphogenetic Protein 10 (BPM10), a biomarker for atrial fibrillation and stroke. Using human engineered heart tissue, the study found that rapid pacing increased BMP10 expression and release, which in turn affected ventricular cardiomyocytes. The findings have significant implications for the diagnosis and treatment of atrial fibrillation, particularly in patients with stroke risk. The study also found that BMP10 plasma concentrations were higher in patients with current atrial fibrillation than in those with sinus rhythm. This research sheds new light on the role of BMP10 in atrial fibrillation and its potential as a biomarker for stroke risk. The discovery may lead to the development of more effective diagnostic tools and treatments for atrial fibrillation, and could potentially save lives. This study is a significant step forward in our understanding of atrial fibrillation and its consequences, and may pave the way for more personalized and targeted therapies.",
+    "model_used": "llama-3.3-70b-versatile"
+  }
+}

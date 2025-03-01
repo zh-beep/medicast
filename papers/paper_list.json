@@ -1,0 +1,21 @@
+{
+    "data": {
+      "papers": [
+        {
+          "doi": "https://doi.org/10.1101/2025.02.25.25322843",
+          "title": "Left ventricular mass-to-strain ratio to predict treatment response and prognosis in hypertensive heart disease"
+        },
+        {
+          "doi": "https://doi.org/10.1101/2025.02.24.25322820",
+          "title": "High rate triggers increased atrial release of BMP10, a biomarker for atrial fibrillation and stroke, which affects ventricular cardiomyocytes"
+        },
+        {
+          "doi": "https://doi.org/10.1101/2025.02.25.25322905",
+          "title": "_PCSK9_ genetic variants, carotid atherosclerosis and vascular remodelling"
+        }
+      ]
+    },
+    "expiresAt": "2025-03-01T23:16:04.000Z",
+    "status": "completed",
+    "success": true
+  }
